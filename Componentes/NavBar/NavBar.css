@@ -1,0 +1,19 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    padding: 10px;
+}
+
+h1 {
+    color: white;
+}
+
+.navegacion li{
+    display: inline-block;
+    margin: 10px;
+    font-size: 20px;
+    color: white;
+    cursor: pointer;
+}
