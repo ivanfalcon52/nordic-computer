@@ -1,0 +1,30 @@
+.contenedorItemPadre{
+    display: flex;
+    justify-content: center;
+}
+
+.contenedorItem{
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 1rem;
+    width:70%;
+    margin-top:20px;
+    align-self:center;
+}
+
+.contenedorItem img{
+    width: 500px;
+    height: auto;
+}
+
+h2{
+    margin:8px;
+}
+
+h3{
+    margin:8px;
+}
+
+p{
+    margin: 8px;
+}

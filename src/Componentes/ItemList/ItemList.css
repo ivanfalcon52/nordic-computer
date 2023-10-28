@@ -1,0 +1,7 @@
+.contenedorProductos {
+    display:grid;
+    grid-template-columns: repeat(4, 2fr);
+    gap: 10px;
+    grid-template-rows: none;
+}
+
