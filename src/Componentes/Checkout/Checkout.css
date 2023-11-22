@@ -1,0 +1,35 @@
+.tituloCheckout{
+    text-align: center;
+    font-size: 25px;
+}
+.formulario{
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    padding: 30px;
+    border-radius: 1rem;
+    margin-top:50px;
+    margin-left:300px;
+    margin-right: 300px;
+    box-shadow: 0px 2px 30px rgba(0,0,0,0.7);
+}
+
+.input1{
+    margin-left: 20px;
+}
+
+.input2{
+    margin-left: 14px ;
+}
+
+.input3{
+    margin-left: 12px;
+}
+
+.input4{
+    margin-left: 38px;
+}
+
+.input5{
+    margin-left: 10px;
+}

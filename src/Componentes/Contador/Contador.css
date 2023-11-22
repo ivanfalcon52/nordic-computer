@@ -1,0 +1,10 @@
+.contador{
+    margin: 20px;
+}
+.contador button{
+    font-size: 15px;
+    padding:2px;
+    background-color: antiquewhite;
+    border: 1px solid black;
+    border-radius: 4px;
+}

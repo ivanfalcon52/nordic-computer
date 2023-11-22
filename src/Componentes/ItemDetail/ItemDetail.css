@@ -7,24 +7,50 @@
     text-align: center;
     border: 1px solid black;
     border-radius: 1rem;
-    width:70%;
-    margin-top:20px;
+    width:50%;
+    margin-top:100px;
     align-self:center;
+    box-shadow: 0px 2px 30px rgba(0,0,0,0.7);
 }
 
 .contenedorItem img{
-    width: 500px;
+    width: 600px;
     height: auto;
+    border-radius: 10px;
 }
 
-h2{
+.contenedorItem h2{
     margin:8px;
+    font-size: 40px;
 }
 
-h3{
+.contenedorItem h3{
     margin:8px;
+    font-size: 25px;
 }
 
-p{
-    margin: 8px;
+.contenedorItem p{
+    margin: 20px;
+    font-size: 18px;
+}
+
+.contenedorItem button{
+    background-color: antiquewhite;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 5px;
+    margin-bottom: 15px;
+}
+
+.finButton {
+    color:black;
+    text-decoration: none;
+    background-color: antiquewhite;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 18px;
+    padding: 3px;
+    
+    
 }

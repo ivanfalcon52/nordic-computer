@@ -2,6 +2,13 @@
     width: 45px;
 }
 
-strong {
-    color: white;
+
+
+span {
+    color: rgb(235, 86, 151);
+    text-decoration: none;
+}
+
+span:a{
+    text-decoration: none;
 }
